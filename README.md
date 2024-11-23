@@ -1,5 +1,6 @@
 # ShortURL
 ## 🧍 ShortURL Tool || version 1
+![](https://i.imgur.com/ywFCmtB.png)
 _memperpendek atau merahasiakan url kalian menggunakan tool Short URL 🔥🤩_
 # INSTALLATION ❔
 ```bash
